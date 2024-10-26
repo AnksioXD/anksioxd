@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dvldpttqh0531wlg4gt7r4lb8&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=dvldpttqh0531wlg4gt7r4lb8&redirect=true)
 <!--
 **AnksioXD/anksioxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
