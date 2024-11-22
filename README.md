@@ -1,4 +1,5 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dvldpttqh0531wlg4gt7r4lb8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=dvldpttqh0531wlg4gt7r4lb8&redirect=true)
+[![trophies](https://github-profile-trophy.vercel.app/?username=AnksioXD&theme=gruvbox)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dvldpttqh0531wlg4gt7r4lb8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=dvldpttqh0531wlg4gt7r4lb8&redirect=true)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dvldpttqh0531wlg4gt7r4lb8)
 <!--
 **AnksioXD/anksioxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
