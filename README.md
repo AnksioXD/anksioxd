@@ -7,9 +7,6 @@
 
   <br><br>
 
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=dvldpttqh0531wlg4gt7r4lb8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
+  <img width=1000 src="https://spotify-github-profile.kittinanx.com/api/view?uid=dvldpttqh0531wlg4gt7r4lb8&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile" />
 
-  <br><br>
-
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=dvldpttqh0531wlg4gt7r4lb8" alt="recents" />
 </div>
