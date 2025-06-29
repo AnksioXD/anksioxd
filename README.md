@@ -7,6 +7,6 @@
 
   <br><br>
 
-  <img width=1000 src="https://spotify-github-profile.kittinanx.com/api/view?uid=dvldpttqh0531wlg4gt7r4lb8&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile" />
+  <img width=1000 src="https://spotify-github-profile.kittinanx.com/api/view?uid=dvldpttqh0531wlg4gt7r4lb8&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile" />
 
 </div>
